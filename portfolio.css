@@ -1,0 +1,100 @@
+body {
+  background-image: url(https://images.unsplash.com/photo-1578393098337-5594cce112da?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=617&q=80);
+  background-repeat: no-repeat;
+  background-color: black;
+}
+
+header {
+  background-color: #070606;
+}
+
+.navbar {
+  margin: 0px 20px 0px 20px;
+  width: 80px;
+  height: 80px;
+  font-family: "Syne";
+  font-size: 20px;
+  background-color: #070606;
+  box-shadow: inset 0px 0px 80px 80px #0f0c06;
+}
+
+#inicio {
+  margin: 0px 10px 0px 10px;
+}
+
+#contato {
+  margin: 0px 10px 0px 10px;
+}
+
+#inicio:hover {
+  color: #661016;
+}
+
+#contato:hover {
+  color: #661016;
+}
+
+#perfil {
+  transform: scale(0.8);
+}
+
+#logo {
+  margin: 10px 20px 0px 20px;
+}
+
+.navbar-brand {
+  background-color: #070606;
+}
+
+#ig {
+  font-size: 25px;
+  font-family: "Syne";
+  color: #535861;
+}
+
+#ig_logo {
+  margin: 10px 10px 0px 10px;
+}
+
+#wpp {
+  font-size: 25px;
+  font-family: "Syne";
+  color: #535861;
+}
+
+#wpp_logo {
+  margin: 10px 10px 0px 10px;
+}
+
+#email {
+  font-size: 25px;
+  font-family: "Syne";
+  color: #535861;
+}
+
+#email_logo {
+  margin: 10px 10px 0px 10px;
+}
+
+#alan {
+  font-size: 40px;
+  font-family: "Syne";
+  color: #661016;
+}
+
+#perfil {
+  background-color: #131313e3;
+}
+
+.card {
+  background-color: #131313e3;
+  color: #535861;
+  font-size: 20px;
+  font-family: "Syne";
+}
+
+.card-header-title {
+  color: #661016;
+  font-size: 25px;
+  font-family: "Syne";
+}
